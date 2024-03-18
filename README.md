@@ -13,3 +13,16 @@ data_v2_master.csv - stockanalysis data that was scraped
 scraperv2.py - webscraping script
 
 visuals.py - used in capstone.ipynb to create a visualization
+
+---
+
+![model_testing](https://github.com/KyleNelsen/wgu_capstone/blob/main/images/model_testing.png)
+
+![model_vs_spy](https://github.com/KyleNelsen/wgu_capstone/blob/main/images/model_vs_spy.png)
+
+![money_test](https://github.com/KyleNelsen/wgu_capstone/blob/main/images/money_test.png)
+
+![percent_change_per_year](https://github.com/KyleNelsen/wgu_capstone/blob/main/images/percent_change_per_year.png)
+
+![pred_correlation](https://github.com/KyleNelsen/wgu_capstone/blob/main/images/pred_correlation.png)
+
